@@ -7,7 +7,7 @@ import streamlit as st
 
 
 # Path del modelo preentrenado
-MODEL_PATH = '/pickle_model.pkl'
+MODEL_PATH = 'pickle_model.pkl'
 
 
 # Se recibe la imagen y el modelo, devuelve la predicción
